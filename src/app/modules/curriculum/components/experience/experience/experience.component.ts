@@ -25,12 +25,5 @@ export class ExperienceComponent {
       },
       text: "<p>Construção de páginas responsivas e componentes dinâmicos. Criação de API Rest. Desenvolvimento de novos módulos e funcionalidades. Utilizando as linguagens: Javascript, PHP, Laravel e VUE</p>" 
     },
-    {
-      summary: {
-        strong: "",
-        p: "",
-      },
-      text: "<p></p>" 
-    },
   ])
 }
